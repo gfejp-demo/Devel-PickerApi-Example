@@ -10,3 +10,8 @@
 │
 └ README.md .. このファイル
 ```
+
+## API に関するドキュメント
+
+・Google Picker API<br/>
+ https://developers.google.com/drive/picker
